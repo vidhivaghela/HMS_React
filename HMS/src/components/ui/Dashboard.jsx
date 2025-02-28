@@ -26,7 +26,7 @@ function Dashboard() {
                   Hello,<span className="text-[#1619f2]">Welcome</span>
                 </h1>
                 <p className="font-IBMPlexRegular text-left">
-                Welcome, Dr. [Last Name]! Your expertise drives better patient care, and 
+                Welcome, Dr. [Name]! Your expertise drives better patient care, and 
                 we're here to enhance your journey with smart, seamless healthcare management solutions. 
                 Let’s revolutionize healthcare together!
                 </p>
